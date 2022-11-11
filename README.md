@@ -1,4 +1,4 @@
-# :zap: ML Preprocessor CLI
+# :zap: FilterX
 
 The CLI made to preprocess the database and save your **time**:clock1:
 
